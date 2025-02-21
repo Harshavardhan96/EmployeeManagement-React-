@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Harshavardhan96/EmployeeManagement-React-.git/static/css/main.ab11011f.css",
-    "main.js": "/Harshavardhan96/EmployeeManagement-React-.git/static/js/main.628a8a89.js",
-    "index.html": "/Harshavardhan96/EmployeeManagement-React-.git/index.html",
-    "main.ab11011f.css.map": "/Harshavardhan96/EmployeeManagement-React-.git/static/css/main.ab11011f.css.map",
-    "main.628a8a89.js.map": "/Harshavardhan96/EmployeeManagement-React-.git/static/js/main.628a8a89.js.map"
+    "main.css": "/EmployeeManagement-React-/static/css/main.ab11011f.css",
+    "main.js": "/EmployeeManagement-React-/static/js/main.628a8a89.js",
+    "index.html": "/EmployeeManagement-React-/index.html",
+    "main.ab11011f.css.map": "/EmployeeManagement-React-/static/css/main.ab11011f.css.map",
+    "main.628a8a89.js.map": "/EmployeeManagement-React-/static/js/main.628a8a89.js.map"
   },
   "entrypoints": [
     "static/css/main.ab11011f.css",
